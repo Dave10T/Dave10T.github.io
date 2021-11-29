@@ -8,6 +8,7 @@
 
 ---
 [Project 2. Loan Default Prediction with Berka Dataset]()
+Predicting customer attrition using supervised machine learning algorithms in Python
 <img src="images/predA.jpeg?raw=true"/>
 ---
 [Project 3 Title](http://example.com/)
