@@ -1,12 +1,9 @@
-## Portfolio
-
+# Dave's Data Science Portofolio
+# This is a portfolio that contains the projects that I've been working on.
 ---
 
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+[Project 1. Data Analysis & Visualization in Finance](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-)
+   Technical Analysis of Bitcoin and some other cryptocurrencies using Python
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
