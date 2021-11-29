@@ -1,4 +1,3 @@
-## This can be your internal website page / project page
 
 **Project description:** with an increase in the penetration of analytics into numerous facets of our lives, finance is definitely one of the earliest to catch onto this trend. In this project I have attempted to showcase how data analytics and visualization techniques can be incorporated in the world of cryptocurrencies.
 
