@@ -8,7 +8,7 @@
 
 ---
 [Project 2. Loan Default Prediction with Berka Dataset]()
-<img src="images/predA.jpg?raw=true"/>
+<img src="images/predA.jpeg?raw=true"/>
 ---
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
