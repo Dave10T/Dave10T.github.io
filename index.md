@@ -4,11 +4,10 @@
 
 [Project 1. Data Analysis & Visualization in Finance](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-)
    Technical Analysis of Bitcoin and some other cryptocurrencies using Python
-
+   <img src="images/BTC-project1.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/BTC-project1.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
