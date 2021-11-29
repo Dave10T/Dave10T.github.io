@@ -7,7 +7,7 @@
    <img src="images/BTC-project1.png?raw=true"/>
 
 ---
-[Project 2. Loan Default Prediction with Berka Dataset]()
+[Project 2. Loan Default Prediction with Berka Dataset](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-/tree/main/Project2)
 Predicting customer attrition using supervised machine learning algorithms in Python
 <img src="images/predA.jpeg?raw=true"/>
 ---
