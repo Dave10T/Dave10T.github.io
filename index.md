@@ -6,7 +6,7 @@
    Technical Analysis of Bitcoin and some other cryptocurrencies using Python
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/BTC-project1.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
