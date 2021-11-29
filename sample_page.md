@@ -1,8 +1,8 @@
 ## This can be your internal website page / project page
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** with an increase in the penetration of analytics into numerous facets of our lives, finance is definitely one of the earliest to catch onto this trend. In this project I have attempted to showcase how data analytics and visualization techniques can be incorporated in the world of cryptocurrencies.
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+### 1. Bitcoin aswell as other cryptocurrencies such as ETH, XRP, ADA and many others are the most profitable assets today
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
@@ -12,12 +12,16 @@ if (isAwesome){
 }
 ```
 
-### 2. Assess assumptions on which statistical inference will be based
+### 2. Understanding data & general statistics
 
-```javascript
-if (isAwesome){
-  return true
-}
+```Import necessary libraries —
+   import numpy as np 
+   import pandas as pd
+   import matplotlib.pyplot as plt
+   import seaborn as sns
+   import datetime
+   import warnings
+   warnings.filterwarnings('ignore')
 ```
 
 ### 3. Support the selection of appropriate statistical tools and techniques
