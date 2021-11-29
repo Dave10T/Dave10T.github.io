@@ -7,8 +7,8 @@
    <img src="images/BTC-project1.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-
+[Project 2. Loan Default Prediction with Berka Dataset]()
+<img src="images/predA.jpg?raw=true"/>
 ---
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
