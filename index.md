@@ -14,7 +14,7 @@ Predicting customer attrition using supervised machine learning algorithms in Py
 
 
 [Project 3 Title](http://example.com/)
-<img src="images/DataCleansing.jpeg?raw=true"/>
+<img src="images/certs.jpeg?raw=true"/>
 
 ---
 
