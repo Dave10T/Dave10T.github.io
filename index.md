@@ -13,7 +13,7 @@ Predicting customer attrition using supervised machine learning algorithms in Py
 ---
 
 ---
-[DATA SCIENCE CERTIFICATES](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-/tree/main/Project2)
+[DATA SCIENCE CERTIFICATES](https://github.com/Dave10T/Dave10T.github.io/blob/master/pdf/SQL_SOA.pdf)
 Some of my certificates in Data Science
 <img src="images/certs.jpeg?raw=true"/>
 ---
