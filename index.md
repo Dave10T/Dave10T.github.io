@@ -7,7 +7,15 @@
    <img src="images/BTC-project1.png?raw=true"/>
 
 ---
-[Project 2. Loan Default Prediction with Berka Dataset](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-/tree/main/Project2)
+
+---
+
+[Project 2. The Bat Algorithm](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-/tree/main/Project3)
+   Bio-inspired Algorithm Known as The Bat Algorithm vs. Classical Algorithms and Genetic Algorithm
+   <img src="images/Bat_Alg.png?raw=true"/>
+
+---
+[Project 3. Loan Default Prediction with Berka Dataset](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-/tree/main/Project2)
 Predicting customer attrition using supervised machine learning algorithms in Python
 <img src="images/predA.jpeg?raw=true"/>
 ---
