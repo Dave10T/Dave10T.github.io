@@ -12,7 +12,7 @@
 
 [Project 2. The Bat Algorithm](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-/tree/main/Project3/AM.pdf)
    Bio-inspired Algorithm Known as The Bat Algorithm vs. Classical Algorithms and Genetic Algorithm
-   <img src="images/Bat_Alg.png?raw=true"/>
+   <img src="images/BatAlg.png?raw=true"/>
 
 ---
 [Project 3. Loan Default Prediction with Berka Dataset](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-/tree/main/Project2)
