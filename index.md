@@ -19,7 +19,11 @@
 Predicting customer attrition using supervised machine learning algorithms in Python
 <img src="images/predA.jpeg?raw=true"/>
 ---
-
+---
+[Project 4. Web Scraping from Coppel](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-/tree/main/Project2)
+Getting data related to products in offer from https://www.coppel.com/
+<img src="images/predA.jpeg?raw=true"/>
+---
 ---
 [DATA SCIENCE CERTIFICATES](https://github.com/Dave10T/Dave10T.github.io/blob/master/pdf/SQL_SOA.pdf)
 Some of my certificates in Data Science
