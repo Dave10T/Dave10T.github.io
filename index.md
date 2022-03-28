@@ -20,7 +20,7 @@ Predicting customer attrition using supervised machine learning algorithms in Py
 <img src="images/predA.jpeg?raw=true"/>
 ---
 ---
-[Project 4. Web Scraping from Coppel](https://nbviewer.org/github/Dave10T/Dave-s-Data-Science-Portfolio-/blob/main/Project4/coppel_web_scraping_improved2.ipynb)
+[Project 4. Web Scraping from Coppel](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-/blob/main/Project4/coppel_web_scraping_improved2.ipynb)
 Getting data related to products in offer from https://www.coppel.com/
 <img src="images/web_scraping.jpeg?raw=true"/>
 ---
