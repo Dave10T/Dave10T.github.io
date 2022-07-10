@@ -25,7 +25,7 @@ Getting data related to products in offer from https://www.coppel.com/
 <img src="images/web_scraping.jpeg?raw=true"/>
 ---
 ---
-[DATA SCIENCE CERTIFICATES](https://github.com/Dave10T/Dave10T.github.io/blob/master/pdf/Coursera JAVZKH43LLXC.pdf)
+[DATA SCIENCE CERTIFICATES](https://github.com/Dave10T/Dave10T.github.io/blob/master/pdf/CourseraML_Especialization_1.pdf)
 Some of my certificates in Data Science
 <img src="images/onlineCertificates.png?raw=true"/>
 ---
