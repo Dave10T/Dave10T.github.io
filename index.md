@@ -10,7 +10,7 @@
 
 ---
 
-[Project 2. The Bat Algorithm](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-/tree/main/Project3/AM_English.pdf)
+[Project 2. The Bat Algorithm](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-/blob/main/Project3/AM_English.pdf)
    Bio-inspired Algorithm Known as The Bat Algorithm vs. Classical Algorithms and Genetic Algorithm
    <img src="images/BatAlg.png?raw=true"/>
 
