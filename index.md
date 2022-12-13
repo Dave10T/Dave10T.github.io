@@ -28,7 +28,7 @@ Some of my certificates in Data Science
 ---
 [More About Dave Tello](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-)
    If you want to know a little bit more about me...
-   <img src="images/BTC-project1.png?raw=true"/>
+   <img src="images/Fractal.jpg?raw=true"/>
 
 ---
 
