@@ -5,13 +5,19 @@
    Bio-inspired Algorithm Known as The Bat Algorithm vs. Classical Algorithms and Genetic Algorithm
    <img src="images/BatAlg.png?raw=true"/>
 
+--- 
 ---
-[Project 2. Loan Default Prediction with Berka Dataset](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-/tree/main/Project2)
+[Project 2. Cosine Similarity for Name Matching]([https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-/tree/main/Project2](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-/blob/main/project5/Cosine%20Similarity%20Tutorial.ipynb)
+Finding mathces between two distinct data sets
+<img src="images/predA.jpeg?raw=true"/>
+---
+---
+[Project 3. Loan Default Prediction with Berka Dataset](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-/tree/main/Project2)
 Predicting customer attrition using supervised machine learning algorithms in Python
 <img src="images/predA.jpeg?raw=true"/>
 ---
 ---
-[Project 3. Web Scraping from Coppel](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-/blob/main/Project4/coppel_web_scraping_improved2.ipynb)
+[Project 4. Web Scraping from Coppel](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-/blob/main/Project4/coppel_web_scraping_improved2.ipynb)
 Getting data related to products in offer from https://www.coppel.com/
 <img src="images/web_scraping.jpeg?raw=true"/>
 ---
