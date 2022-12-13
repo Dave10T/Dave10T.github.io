@@ -1,26 +1,17 @@
 # Dave's Data Science Portofolio
 # This is a portfolio that contains the projects that I've been working on.
 ---
-
-[Project 1. Data Analysis & Visualization in Finance](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-)
-   Technical Analysis of Bitcoin and some other cryptocurrencies using Python
-   <img src="images/BTC-project1.png?raw=true"/>
-
----
-
----
-
-[Project 2. The Bat Algorithm](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-/blob/main/Project3/AM_English.pdf)
+[Project 1. The Bat Algorithm](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-/blob/main/Project3/AM_English.pdf)
    Bio-inspired Algorithm Known as The Bat Algorithm vs. Classical Algorithms and Genetic Algorithm
    <img src="images/BatAlg.png?raw=true"/>
 
 ---
-[Project 3. Loan Default Prediction with Berka Dataset](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-/tree/main/Project2)
+[Project 2. Loan Default Prediction with Berka Dataset](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-/tree/main/Project2)
 Predicting customer attrition using supervised machine learning algorithms in Python
 <img src="images/predA.jpeg?raw=true"/>
 ---
 ---
-[Project 4. Web Scraping from Coppel](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-/blob/main/Project4/coppel_web_scraping_improved2.ipynb)
+[Project 3. Web Scraping from Coppel](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-/blob/main/Project4/coppel_web_scraping_improved2.ipynb)
 Getting data related to products in offer from https://www.coppel.com/
 <img src="images/web_scraping.jpeg?raw=true"/>
 ---
@@ -28,6 +19,13 @@ Getting data related to products in offer from https://www.coppel.com/
 [DATA SCIENCE CERTIFICATES](https://github.com/Dave10T/Dave10T.github.io/blob/master/pdf/CourseraML_Especialization_1.pdf)
 Some of my certificates in Data Science
 <img src="images/onlineCertificates.png?raw=true"/>
+---
+[More About Dave Tello](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-)
+   If you want to know a little bit more about me...
+   <img src="images/BTC-project1.png?raw=true"/>
+
+---
+
 ---
 
 ### Category Name 2
