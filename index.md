@@ -9,7 +9,7 @@
 ---
 [Project 2. Cosine Similarity for Name Matching]([https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-/tree/main/Project2](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-/blob/main/project5/Cosine%20Similarity%20Tutorial.ipynb)
 Finding mathces between two distinct data sets
-<img src="images/predA.jpeg?raw=true"/>
+<img src="images/CosineSimilarity.png?raw=true"/>
 ---
 ---
 [Project 3. Loan Default Prediction with Berka Dataset](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-/tree/main/Project2)
