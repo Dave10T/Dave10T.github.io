@@ -24,7 +24,7 @@ Getting data related to products in offer from https://www.coppel.com/
 ---
 [DATA SCIENCE CERTIFICATES](https://github.com/Dave10T/Dave10T.github.io/blob/master/pdf/MLCertificates.pdf)
 Some of my certificates in Data Science
-<img src="images/onlineCertificates.png?raw=true"/>
+<img src="images/OnlineCertificates.jpeg?raw=true"/>
 ---
 [More About Dave Tello](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-)
    If you want to know a little bit more about me...
