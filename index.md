@@ -2,7 +2,7 @@
 # This is a portfolio that contains the projects that I've been working on.
 ---
 [Current Project. Web Scraping Web App](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-/blob/main/Project3/AM_English.pdf)
-   A web scraping web app built with puython, flask and scrapy.
+   A web scraping web app built with python, flask and scrapy.
    <img src="images/py-flask.png?raw=true"/>
 
 --- 
