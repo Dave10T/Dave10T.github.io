@@ -1,6 +1,12 @@
 # Dave's Data Science Portofolio
 # This is a portfolio that contains the projects that I've been working on.
 ---
+[Current Project. Web Scraping Web App](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-/blob/main/Project3/AM_English.pdf)
+   A web scraping web app built with puython, flask and scrapy.
+   <img src="images/py-flask.png?raw=true"/>
+
+--- 
+---
 [Project 1. The Bat Algorithm](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-/blob/main/Project3/AM_English.pdf)
    Bio-inspired Algorithm Known as The Bat Algorithm vs. Classical Algorithms and Genetic Algorithm
    <img src="images/BatAlg.png?raw=true"/>
