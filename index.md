@@ -3,7 +3,7 @@
 ---
 [Current Project. Web Scraping Web App](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-/blob/main/CurrentProject/webAppPDF.pdf)
    A web scraping web app built with python, flask and scrapy.
-   <img src="images/py-flask.png?raw=true"/>
+   <img src="images/scrapy_flask.jpg?raw=true"/>
 
 --- 
 ---
