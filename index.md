@@ -1,7 +1,11 @@
 # Dave's Data Science Portofolio
 # This is a portfolio that contains the projects that I've been working on.
 ---
-[Current Project. Web Scraping Web App](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-/blob/main/CurrentProject/webAppPDF.pdf)
+[Current proyect](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-/blob/main/currentproject2/chatbotGPT.png)
+   AI Chatbot built with chatGPT api and flask. 
+   <img src="images/chatbotGPT.png?raw=true"/>
+---
+[Just finished project](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-/blob/main/CurrentProject/webAppPDF.pdf)
    A web scraping web app built with python, flask and scrapy.
    <img src="images/scrapy_flask.jpg?raw=true"/>
 
